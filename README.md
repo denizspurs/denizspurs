@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQGI3sgdyYPI6w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697763892347?e=1743638400&v=beta&t=MJhlACJ--69GQ2Oz-I8P-B79q8O4z0WGw15b85z2010)
+[![MasterHead](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/retro2_live.gif)
 
 <h1 align="center">Hi 👋, I'm Gökdeniz Öztürk</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
