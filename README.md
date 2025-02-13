@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/retro2_live.gif)
+![MasterHead](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/retro2_live.gif)
 
 <h1 align="center">Hi 👋, I'm Gökdeniz Öztürk</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
